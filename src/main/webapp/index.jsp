@@ -23,7 +23,7 @@
 <body>
 <!--导入页面头部  -->
 	<%@ include file="common/front/header.jsp" %>
-<!--//导入页面尾部  -->	
+<!--//导入页面头部  -->	
 	<!--banner-->
 	<div class="banner">
 		<div class="container">

@@ -56,6 +56,6 @@
 	<!--//footer-->
 	<div class="footer-bottom">
 		<div class="container">
-			<p>Copyright &copy; 2015.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+			<p>Copyright &copy; 2015.Company name All rights reserved.Group Five <a href="#" target="_blank" title="蛋糕之家">蛋糕之家</a> - Collect from <a href="#" title="蛋糕" target="_blank">美味蛋糕</a></p>
 		</div>
 	</div>
